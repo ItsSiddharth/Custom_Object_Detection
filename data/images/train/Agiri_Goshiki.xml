@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Anime Dataset</folder>
+	<filename>Agiri_Goshiki.jpg</filename>
+	<path>/home/siddharth/Anime Dataset/Agiri_Goshiki.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>219</width>
+		<height>344</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anime_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>57</ymin>
+			<xmax>203</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>

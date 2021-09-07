@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Anime Dataset</folder>
+	<filename>Ageha_Hanazono.jpg</filename>
+	<path>/home/siddharth/Anime Dataset/Ageha_Hanazono.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>153</width>
+		<height>264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anime_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>40</ymin>
+			<xmax>89</xmax>
+			<ymax>94</ymax>
+		</bndbox>
+	</object>
+</annotation>

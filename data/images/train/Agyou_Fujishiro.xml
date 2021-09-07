@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Anime Dataset</folder>
+	<filename>Agyou_Fujishiro.jpg</filename>
+	<path>/home/siddharth/Anime Dataset/Agyou_Fujishiro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>350</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anime_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>75</ymin>
+			<xmax>190</xmax>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+</annotation>
