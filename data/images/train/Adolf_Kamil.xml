@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Anime Dataset</folder>
+	<filename>Adolf_Kamil.jpg</filename>
+	<path>/home/siddharth/Anime Dataset/Adolf_Kamil.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>206</width>
+		<height>295</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anime_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>51</ymin>
+			<xmax>145</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+</annotation>

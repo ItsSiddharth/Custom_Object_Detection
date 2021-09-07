@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Anime Dataset</folder>
+	<filename>Adenaur_Paraya.jpg</filename>
+	<path>/home/siddharth/Anime Dataset/Adenaur_Paraya.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>130</width>
+		<height>195</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anime_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>44</ymin>
+			<xmax>90</xmax>
+			<ymax>103</ymax>
+		</bndbox>
+	</object>
+</annotation>
