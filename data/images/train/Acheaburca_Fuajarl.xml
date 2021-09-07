@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Anime Dataset</folder>
+	<filename>Acheaburca_Fuajarl.jpg</filename>
+	<path>/home/siddharth/Anime Dataset/Acheaburca_Fuajarl.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>160</width>
+		<height>120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anime_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>15</ymin>
+			<xmax>119</xmax>
+			<ymax>72</ymax>
+		</bndbox>
+	</object>
+</annotation>

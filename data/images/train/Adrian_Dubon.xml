@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Anime Dataset</folder>
+	<filename>Adrian_Dubon.jpg</filename>
+	<path>/home/siddharth/Anime Dataset/Adrian_Dubon.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>347</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anime_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>47</ymin>
+			<xmax>170</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>
