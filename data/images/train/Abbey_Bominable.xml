@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Anime Dataset</folder>
+	<filename>Abbey_Bominable.jpg</filename>
+	<path>/home/siddharth/Anime Dataset/Abbey_Bominable.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anime_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>64</ymin>
+			<xmax>195</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

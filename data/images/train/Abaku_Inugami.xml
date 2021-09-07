@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Anime Dataset</folder>
+	<filename>Abaku_Inugami.jpg</filename>
+	<path>/home/siddharth/Anime Dataset/Abaku_Inugami.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>350</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anime_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>93</ymin>
+			<xmax>189</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

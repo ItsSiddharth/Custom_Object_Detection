@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Anime Dataset</folder>
+	<filename>Abigail_Croft.jpg</filename>
+	<path>/home/siddharth/Anime Dataset/Abigail_Croft.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>348</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anime_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>134</ymin>
+			<xmax>197</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>

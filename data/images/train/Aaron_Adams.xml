@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Anime Dataset</folder>
+	<filename>Aaron_Adams.jpg</filename>
+	<path>/home/siddharth/Anime Dataset/Aaron_Adams.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>162</width>
+		<height>247</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anime_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>77</ymin>
+			<xmax>107</xmax>
+			<ymax>121</ymax>
+		</bndbox>
+	</object>
+</annotation>

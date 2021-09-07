@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Anime Dataset</folder>
+	<filename>Abbey_Windsor.jpg</filename>
+	<path>/home/siddharth/Anime Dataset/Abbey_Windsor.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anime_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>85</ymin>
+			<xmax>161</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Anime Dataset</folder>
+	<filename>Abyss_Narrow_Narrow.jpg</filename>
+	<path>/home/siddharth/Anime Dataset/Abyss_Narrow_Narrow.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anime_face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>17</ymin>
+			<xmax>199</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>
